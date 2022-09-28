@@ -428,7 +428,6 @@ function get_url(p) {
   return url;
 }
 
-//Copied from stackoverflow :D
 function getParameterByName(name, url) {
   if (!url) {
     url = window.location.href;
